@@ -1,5 +1,13 @@
-# Unit 7 | Assignment - Distinguishing Sentiments
-
+## About
+   - This is the personal project for unit 7(Social-Analytics) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/) (graded A+). 
+   - Details about the project can be found [here](#the-original-text-of-the-homework-assignment).
+   - Run main.ipynb file at Binder [here](https://hub.mybinder.org/user/yongjinjiang-social-analytics-i6t3zex8/notebooks/main.ipynb).
+   - A snapshot of the result:
+<img src="./Images/output_10_0.png " width="600" height="400">
+   
+  
+  
+## **_The original text of the homework assignment:_** 
 ## Background
 
 **Twitter** has become a wildly sprawling jungle of information—140 characters at a time. Somewhere between 350 million and 500 million tweets are estimated to be sent out _per day_. With such an explosion of data, on Twitter and elsewhere, it becomes more important than ever to tame it in some way, to concisely capture the essence of the data.
