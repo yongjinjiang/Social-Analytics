@@ -3,7 +3,7 @@
    - Details about the project can be found [here](#the-original-text-of-the-homework-assignment).
    - Run main.ipynb file at Binder [here](https://hub.mybinder.org/user/yongjinjiang-social-analytics-i6t3zex8/notebooks/main.ipynb).
    - A snapshot of the result:
-<img src="./Images/output_10_0.png " width="600" height="400">
+<img src="./Images/app.png " width="600" height="400">
    
   
   
