@@ -1,5 +1,5 @@
 ## About
-   - This is the personal project for unit 7(Social-Analytics) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/) (graded A+). 
+   - This is the personal project for unit 7(Social-Analytics) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/) (graded A). 
    - Details about the project can be found [here](#the-original-text-of-the-homework-assignment).
    - The main.ipynb file is hosted on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/yongjinjiang-social-analytics-i6t3zex8/notebooks/main.ipynb) and one can run the code online.
    - A snapshot of the result:
